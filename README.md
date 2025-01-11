@@ -47,7 +47,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
     - Handled imbalanced breakdown data to avoid overfitting.
     - Addressed inconsistent date fields through extensive preprocessing for accurate analysis.
    
----
+
 
 ### [Data Engineering](https://silvesco94.github.io/Data-Engineering/)
 - **Baseball Stats Pipeline**:
@@ -63,25 +63,25 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
   - Resolved inconsistent player IDs across sources and refined schema design.
   - Plan to integrate additional datasets and optimize querying with advanced storage solutions.
 
----
+
 
 ### [Data Mining](https://silvesco94.github.io/Data-Mining/)
 - Explored data patterns through clustering, association rule mining, and decision tree classification.
 - Implemented algorithms like K-Means and Apriori to derive actionable insights.
 - Evaluated model performance using metrics like silhouette scores and feature importance.
 
----
+
 
 ### [Causal Modeling](https://username.github.io/Causal-Experiments/)
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - Focused on actionable insights for decision-making and policy evaluation.
 
----
+
 
 ### [Machine Learning](https://silvesco94.github.io/Machine-Learning/)
 - Developed advanced machine learning models for tasks like classification, clustering, and regression.
 - Applied techniques such as neural networks, ensemble models, and support vector machines to solve real-world problems.
 - Highlighted by a capstone project analyzing salary fairness in Major League Baseball using predictive models and clustering techniques.
 
----
+
