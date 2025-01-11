@@ -46,19 +46,35 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
     - Managed over 80% missing equipment IDs, reducing model granularity at the machine level.
     - Handled imbalanced breakdown data to avoid overfitting.
     - Addressed inconsistent date fields through extensive preprocessing for accurate analysis.
+---
 
-### [Data Engineering]([https://username.github.io/data-engineering-repo](https://silvesco94.github.io/Data-Engineering/))
-- Projects that highlight my skills in building data pipelines and infrastructure.
+### [Data Engineering](https://silvesco94.github.io/Data-Engineering/)
+- **Baseball Stats Pipeline**:
+  - Automated data collection using the Pybaseball package and APIs like Fangraphs and MLB.
+  - Designed a relational database schema (3NF) and used GCP for scalable storage.
+  - Built Airflow workflows for automated data ingestion and updates.
+
+- **ETL Pipeline**:
+  - Extracted, transformed, and loaded data into structured formats using Python and SQL.
+  - Standardized data to ensure compatibility with the database schema.
+
+- **Challenges and Future Plans**:
+  - Resolved inconsistent player IDs across sources and refined schema design.
+  - Plan to integrate additional datasets and optimize querying with advanced storage solutions.
 
 ---
 
-### [Data Mining](https://username.github.io/data-mining-repo)
-- Work involving uncovering patterns and insights through data mining.
+### [Data Mining](https://silvesco94.github.io/Data-Mining/)
+- Explored data patterns through clustering, association rule mining, and decision tree classification.
+- Implemented algorithms like K-Means and Apriori to derive actionable insights.
+- Evaluated model performance using metrics like silhouette scores and feature importance.
 
 ---
 
-### [Causal Modeling](https://username.github.io/causal-modeling-repo)
-- Analytical projects demonstrating causal inference and experiments.
+### [Causal Modeling](https://username.github.io/Causal-Experiments/)
+- Explored causal relationships through experiments and observational data.
+- Applied techniques like A/B testing, propensity score matching, and synthetic controls.
+- Focused on actionable insights for decision-making and policy evaluation.
 
 ---
 
