@@ -78,7 +78,9 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 
 ---
 
-### [Machine Learning](https://username.github.io/machine-learning-repo)
-- Advanced machine learning models and applications.
+### [Machine Learning](https://silvesco94.github.io/Machine-Learning/)
+- Developed advanced machine learning models for tasks like classification, clustering, and regression.
+- Applied techniques such as neural networks, ensemble models, and support vector machines to solve real-world problems.
+- Highlighted by a capstone project analyzing salary fairness in Major League Baseball using predictive models and clustering techniques.
 
 ---
