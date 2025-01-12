@@ -1,6 +1,6 @@
 # Scott Silverstein Portfolio
 
-<img src="profile_pic.jpg" alt="Scott Silverstein" width="150" />
+<img src="profile_pic.jpg" alt="Scott Silverstein" width="250" />
 
 
 ## About Me
