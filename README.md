@@ -3,7 +3,7 @@
 <img src="profile_pic.jpg" alt="Scott Silverstein" style="width: 200px; display: inline-block; margin: 0;" />
 
 ## About Me
-Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Currently pursuing an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
+Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Recently graduated with an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
 
 ### **Education**
 - **MSBA, Business Analytics** (2023 - 2024), University of Utah
