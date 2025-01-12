@@ -2,6 +2,10 @@
 
 <img src="profile_pic.jpg" alt="Scott Silverstein" style="width: 200px; display: inline-block; margin: 0;" />
 
+### Email: scottsilverstein20@yahoo.com
+
+### [Resume](https://silvesco94.github.io/Machine-Learning/)
+
 ## About Me
 Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Recently graduated with an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
 
@@ -81,7 +85,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - `Focused on actionable insights for decision-making and policy evaluation.`
-
 ---
 
-
+## Thank You
+Thank you for taking the time to explore my portfolio! Feel free to connect with me on [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/scott-silverstein-69134498/) or reach out to discuss potential collaborations and opportunities.
