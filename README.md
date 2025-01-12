@@ -31,7 +31,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 
 ## Projects Overview
 
-### [Capstone Projects]([https://username.github.io/capstone-projects-repo](https://silvesco94.github.io/Swire-Cola-Capstone-/))
+### [Capstone Projects](https://silvesco94.github.io/Swire-Cola-Capstone-/)
 - **Predictive Maintenance Model for Swire Coca-Cola**: Developed a solution to minimize unplanned machine downtimes by forecasting machinery failures using survival analysis and machine learning models.
   - **Business Problem**: Addressed production shortfalls and estimated $60 million annual losses due to unplanned equipment breakdowns.
   - **Solution Approach**:
