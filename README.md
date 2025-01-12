@@ -45,7 +45,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
   - **Challenges Overcome**:
     - Managed over 80% missing equipment IDs, reducing model granularity at the machine level.
     - Handled imbalanced breakdown data to avoid overfitting.
-    - <span style="font-weight: normal; font-style: normal;">Addressed inconsistent date fields through extensive preprocessing for accurate analysis.</span>
+    - <span style="font-weight: normal;">Addressed inconsistent date fields through extensive preprocessing for accurate analysis.</span>
 
 
 ---
@@ -84,6 +84,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - <span style="font-weight: normal;">Focused on actionable insights for decision-making and policy evaluation.</span>
 ---
+
 
 
 
