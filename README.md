@@ -69,21 +69,21 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 
 - **Challenges and Future Plans**:
   - Resolved inconsistent player IDs across sources and refined schema design.
-  - Plan to integrate additional datasets and optimize querying with advanced storage solutions.
+  - <span style="font-weight: normal;">Plan to integrate additional datasets and optimize querying with advanced storage solutions.</span>
 ---
 
 ### [Data Mining](https://silvesco94.github.io/Data-Mining/)
 - Explored data patterns through clustering, association rule mining, and decision tree classification.
 - Implemented algorithms like K-Means and Apriori to derive actionable insights.
-- Evaluated model performance using metrics like silhouette scores and feature importance.
+- <span style="font-weight: normal;">Evaluated model performance using metrics like silhouette scores and feature importance.</span>
 ---
+
 
 ### [Causal Modeling](https://silvesco94.github.io/Causal-Experiments/)
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
-- Focused on actionable insights for decision-making and policy evaluation.
+- <span style="font-weight: normal;">Focused on actionable insights for decision-making and policy evaluation.</span>
 ---
-
 
 
 
