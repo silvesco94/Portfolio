@@ -1,6 +1,7 @@
 # Scott Silverstein Portfolio
 
-![Scott Silverstein](profile_pic.jpg)
+<img src="profile_pic.jpg" alt="Scott Silverstein" width="150" />
+
 
 ## About Me
 Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Currently pursuing an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
