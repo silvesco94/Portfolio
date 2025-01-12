@@ -45,8 +45,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
   - **Challenges Overcome**:
     - Managed over 80% missing equipment IDs, reducing model granularity at the machine level.
     - Handled imbalanced breakdown data to avoid overfitting.
-    - <span style="font-weight: normal;">Addressed inconsistent date fields through extensive preprocessing for accurate analysis.</span>
-
+    - Addressed inconsistent date fields through extensive preprocessing for accurate analysis.
 
 ---
 
@@ -69,21 +68,19 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 
 - **Challenges and Future Plans**:
   - Resolved inconsistent player IDs across sources and refined schema design.
-  - <span style="font-weight: normal;">Plan to integrate additional datasets and optimize querying with advanced storage solutions.</span>
+  - Plan to integrate additional datasets and optimize querying with advanced storage solutions.
+
 ---
 
 ### [Data Mining](https://silvesco94.github.io/Data-Mining/)
 - Explored data patterns through clustering, association rule mining, and decision tree classification.
 - Implemented algorithms like K-Means and Apriori to derive actionable insights.
-- <span style="font-weight: normal;">Evaluated model performance using metrics like silhouette scores and feature importance.</span>
----
+- Evaluated model performance using metrics like silhouette scores and feature importance.
 
+---
 
 ### [Causal Modeling](https://silvesco94.github.io/Causal-Experiments/)
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
-- <span style="font-weight: normal;">Focused on actionable insights for decision-making and policy evaluation.</span>
+- Focused on actionable insights for decision-making and policy evaluation.
 ---
-
-
-
