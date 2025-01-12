@@ -89,4 +89,4 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 ---
 
 ## Thank You
-Thank you for taking the time to explore my portfolio! Feel free to connect with me on [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/scott-silverstein-69134498/) or reach out to discuss potential collaborations and opportunities.
+Thank you for taking the time to explore my portfolio! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scott-silverstein-69134498/) or reach out to discuss potential collaborations and opportunities.
