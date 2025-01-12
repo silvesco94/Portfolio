@@ -82,4 +82,6 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - `Focused on actionable insights for decision-making and policy evaluation.`
 
+---
+
 
