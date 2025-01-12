@@ -6,6 +6,7 @@
 
 ### [Resume](silverstein%20resume.pdf)
 
+### [LinkedIn](https://www.linkedin.com/in/scott-silverstein-69134498/)
 
 ## About Me
 Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Recently graduated with an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
