@@ -71,7 +71,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 ---
 
 
-### [Causal Modeling](https://username.github.io/Causal-Experiments/)
+### [Causal Modeling](https://silvesco94.github.io/Causal-Experiments/)
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - Focused on actionable insights for decision-making and policy evaluation.
