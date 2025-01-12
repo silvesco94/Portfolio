@@ -43,9 +43,10 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
     - *Operational Efficiency*: Enhanced production continuity, meeting customer demands through consistent schedules.
     - *Cost Savings*: Aimed to cut downtime-related losses by at least 50%, potentially saving millions annually.
   - **Challenges Overcome**:
-  - Managed over 80% missing equipment IDs, reducing model granularity at the machine level.
-  - Handled imbalanced breakdown data to avoid overfitting.
-  - `Addressed inconsistent date fields through extensive preprocessing for accurate analysis.`
+    - Managed over 80% missing equipment IDs, reducing model granularity at the machine level.
+    - Handled imbalanced breakdown data to avoid overfitting.
+    - <span style="font-weight: normal; font-style: normal;">Addressed inconsistent date fields through extensive preprocessing for accurate analysis.</span>
+
 
 ---
 
