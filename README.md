@@ -12,8 +12,8 @@
 Hi! I am Scott Silverstein, a passionate data and business analytics professional with a strong foundation in programming, machine learning, and data-driven decision-making. Recently graduated with an MSBA in Business Analytics at the University of Utah, I bring a diverse educational background and professional experience to the table.
 
 ### **Education**
-- **MSBA, Business Analytics** (2023 - 2024), University of Utah
-- **BA, Comparative Politics and Asian Studies** (2013 - 2017), University of Puget Sound
+- **MSBA (Masters of Science in Business Analytics), Business Analytics** (2023 - 2024), University of Utah
+- **BA, Comparative Politics with an Asian Studies emphasis** (2013 - 2017), University of Puget Sound
 - **Certifications**:
   - Python Bootcamp (General Assembly, March 2023)
   - Salesforce Administration Certification (February 2023)
