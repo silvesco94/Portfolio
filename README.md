@@ -54,7 +54,30 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
     - `Addressed inconsistent date fields through extensive preprocessing for accurate analysis.`
 
 ---
+### [Credit Default Risk] (https://silvesco94.github.io/home_credit/) 
 
+
+- **Work Project:** End-to-end credit-risk modeling to predict applicant default probability and guide underwriting.
+
+- **Business Problem:** Expand responsible lending while keeping portfolio risk within target bounds; primary KPI = ROC–AUC (with calibration and lift by decile as secondary).
+
+- **Solution Approach:**
+  - *EDA & Data Quality:* missingness, leakage screening, and encoding; class-imbalance assessment.
+  - *Models:* regularized logistic regression baseline; gradient-boosted trees (XGBoost) for non-linear signal.
+  - *Validation:* stratified k-fold CV, held-out test, cost-aware threshold tuning; calibration checks.
+  - *Explainability:* permutation importance and partial-dependence style diagnostics.
+
+- **Business Value:**
+  - *Risk Control:* higher AUC and strong lift in high-risk deciles improve approval/decline decisions.
+  - *Inclusion:* enables approving more low-risk borrowers without increasing defaults.
+  - *Operationalization:* clear operating threshold plus monitoring plan for drift and fairness.
+
+- **Challenges Overcome:**
+  - Managed severe class imbalance and correlated features without leakage.
+  - Standardized categorical encodings; consolidated redundant signals.
+  - Delivered stakeholder artifacts: problem statement, EDA report (HTML), reproducible R Markdown pipeline, and a findings deck.
+
+---
 ### [Machine Learning](https://silvesco94.github.io/Machine-Learning/)
 - Developed advanced machine learning models for tasks like classification, clustering, and regression.
 - Applied techniques such as neural networks, ensemble models, and support vector machines to solve real-world problems.
@@ -87,7 +110,8 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Explored causal relationships through experiments and observational data.
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - Focused on actionable insights for decision-making and policy evaluation.
-  
+
+
 ---
 
 ## Thank You
