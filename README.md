@@ -54,7 +54,7 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
     - `Addressed inconsistent date fields through extensive preprocessing for accurate analysis.`
 
 ---
-### [Credit Default Risk] (https://silvesco94.github.io/home_credit/) 
+### [Credit Default Risk](https://silvesco94.github.io/home_credit/) 
 
 
 - **Work Project:** End-to-end credit-risk modeling to predict applicant default probability and guide underwriting.
