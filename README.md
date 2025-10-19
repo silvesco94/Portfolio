@@ -111,6 +111,8 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - Focused on actionable insights for decision-making and policy evaluation.
 
+---
+
 ### [Database Design for University of Utah Health](https://silvesco94.github.io/Utah-Health-Database/)
 
 - **Project Overview**: Designed a fully relational **Hospital Management System (HMS)** using SQL for the University of Utah Health. The database enables secure management of patients, doctors, billing, laboratory tests, and telehealth data — ensuring HIPAA compliance and efficient data retrieval.
@@ -135,6 +137,9 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
   - Ensured schema normalization without redundancy across 15+ tables.
   - Validated foreign key dependencies and cross-table joins using test queries.
   - Balanced data realism and security through synthetic record generation.
+ 
+    
+---
 
 ### [War Games — Baseball Analytics Blog](https://silvesco94.github.io/war_games/)
 
