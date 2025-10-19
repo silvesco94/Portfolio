@@ -111,6 +111,71 @@ Let’s explore my portfolio to see how I’ve applied my skills in real-world p
 - Applied techniques like A/B testing, propensity score matching, and synthetic controls.
 - Focused on actionable insights for decision-making and policy evaluation.
 
+### [Database Design for University of Utah Health](https://silvesco94.github.io/Utah-Health-Database/)
+
+- **Project Overview**: Designed a fully relational **Hospital Management System (HMS)** using SQL for the University of Utah Health. The database enables secure management of patients, doctors, billing, laboratory tests, and telehealth data — ensuring HIPAA compliance and efficient data retrieval.
+
+- **Business Problem**: Existing healthcare data systems often suffer from fragmented storage and poor interoperability. This project addresses those issues by creating a **centralized SQL database** that supports secure, real-time information sharing between doctors, patients, and administrators.
+
+- **Solution Approach**:
+  - **SQL Schema Design**: Built normalized schemas (3NF) for core hospital entities — `Hospital`, `Patient`, `Doctor`, `Appointment`, `Billing`, and `Pharmacy`.
+  - **Referential Integrity**: Defined primary and foreign key relationships to ensure accurate linkages and enforce cascading updates.
+  - **Mock Data Generation**: Used **Mockaroo** to populate 15 interconnected tables with realistic synthetic healthcare data.
+  - **Role-Based Access Control (RBAC)**: Created a `user_table` with role hierarchy for secure access aligned with HIPAA standards.
+  - **Telehealth Extension**: Added `TelehealthAppointment` and `TelehealthFeedback` tables to support modern virtual healthcare operations.
+
+- **Business Value**:
+  - **Operational Efficiency**: Streamlined appointment scheduling, billing, and inventory management in one SQL-backed system.
+  - **Data Consistency**: Improved data accuracy through normalized table structures and constraint-driven validation.
+  - **Scalability**: Database design supports new departments, clinics, and patient types without altering core schema.
+  - **Compliance**: Integrated encryption-ready fields and role-based data segregation for HIPAA alignment.
+
+- **Challenges Overcome**:
+  - Addressed referential integrity conflicts between dependent tables.
+  - Ensured schema normalization without redundancy across 15+ tables.
+  - Validated foreign key dependencies and cross-table joins using test queries.
+  - Balanced data realism and security through synthetic record generation.
+
+### [War Games — Baseball Analytics Blog](https://silvesco94.github.io/war_games/)
+
+- **Project Overview**: Co-authored and developed a data-driven **baseball analytics blog** focused on modern sabermetric insights and statistical modeling. The site is hosted through **GitHub Pages** and designed as a modular content hub linking multiple analysis repositories, each representing an independent research article.
+
+- **Purpose**: To translate advanced baseball statistics into accessible, visual narratives. Each post blends data science with storytelling — integrating Python-based analytics, player performance models, and MLB data pipelines to make analytics approachable for a broader baseball audience.
+
+- **Technical Stack**:
+  - **Python / Pandas / NumPy** for data cleaning, modeling, and feature engineering  
+  - **Matplotlib / Seaborn** for visualization and chart creation  
+  - **GitHub Pages (Jekyll)** for static site hosting and layout customization  
+  - **Markdown / HTML** for article formatting and inline chart display  
+  - **Git Workflow** to manage version control and collaborative publishing  
+
+- **Structure & Workflow**:
+  - Each article is its own GitHub repository, containing notebooks, scripts, and graphics.  
+  - The **central repository** acts as the homepage, hosting:
+    - `index.md` (site index linking to articles)  
+    - `_config.yml` (site and theme settings)  
+    - `assets/images/` (article thumbnails)  
+  - Articles are linked with metadata, author credits, and preview images for a professional blog experience.
+
+- **Analytics Focus**:
+  - **WAR (Wins Above Replacement)** and **wRC+** analysis for measuring player efficiency.  
+  - **Pitch-level modeling** using Statcast data to explore approach, contact quality, and expected outcomes.  
+  - **Salary fairness and performance regression studies** — examining how statistical output aligns with player compensation.  
+  - **Interactive visualization-ready datasets**, prepared for future integration with dashboards or advanced statistical tools.
+
+- **Business Value**:
+  - **Knowledge Sharing**: Bridges academic-level analytics with fan-level accessibility.  
+  - **Scalability**: Blog structure allows continuous growth — each new repo is a new “chapter” of analysis.  
+  - **Collaboration**: Encourages co-authorship and contribution from other data scientists and analysts.  
+  - **Professional Branding**: Demonstrates technical writing, visualization, and analytical storytelling skills to potential employers.
+
+- **Challenges Overcome**:
+  - Designed a **Git-backed publishing system** to manage multiple repositories under one live domain.  
+  - Managed **rendering consistency** across articles with different markdown and Jupyter formats.  
+  - Optimized image paths and `_config.yml` for compatibility with GitHub Pages’ static rendering.  
+  - Balanced visual design, narrative clarity, and advanced analytics within a lightweight static site.
+
+
 
 ---
 
